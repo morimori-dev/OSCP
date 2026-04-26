@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.offsec.com/_astro/1a84f0c68944e562affe39ab28f4997480c24cef-1200x628_Z1o7Q7w.webp" alt="OffSec OSCP" width="800">
+</p>
+
 # OSCP / OffSec ペンテスト ナレッジ
 
 OSCP / PEN-200 の学習・試験対策で実際に使ったコマンド、ワンライナー、攻撃フローを整理したリポジトリ。HTB / TryHackMe / PG Practice / OffSec ラボで日常的に再利用できる粒度でまとめてある。
