@@ -120,17 +120,4 @@ OS:
 # 4.全体図
 ---
 
-```mermaid
-以下のwriteupをもとに、攻撃フローをmermaid形式でまとめてください。
-
-## 条件
-- flowchart LR（横並び）
-- スキャン / 初期侵入 / 権限昇格 の3つのsubgraph
-- 各subgraphはdirection TB（縦並び）
-- ノードは簡潔に：ツール名・発見内容・実行コマンドを改行で記載
-- subgraph間は SCAN --> INITIAL --> PRIVESC で接続
-- 絵文字はそれぞれ 🔍💥⬆️
-
-## writeup
-[ここにwriteupを貼る]
 ```
